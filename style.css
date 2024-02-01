@@ -1,0 +1,11 @@
+.one_element {
+  height: 300px;
+  width: 300px;
+  background-color: gray;
+  /* padding-top: 20px;
+  margin-right: 50px;
+  padding-bottom: 10px;
+  padding-left: 70px; */
+
+  padding: 20px 50px 10px 70px;
+}
